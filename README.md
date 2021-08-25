@@ -2,7 +2,7 @@
 
 Todos los Miercoles a las 18:00. 
 
-**Discord:**
+**Discord:** https://discord.gg/tHMZXGA2
 
 ### Dinamica
 
@@ -47,8 +47,8 @@ Son todes por default.
 
 `ayudantes`
 
-Les ayudantes son voluntarios que perciben que estan relativamente mas cancheros y cumplen el rol de guiar a los demas en sus dudas, preguntas, etc. La idea es que el 10% de los participantes sean ayudantes. Algunos pueden ser fijos y otros definirse durante el encuentro. 
+En cada encuentro vamos a pedir a les que perciban que estan relativamente mas cancheros con el tema que queden anotados de ayudantes por el dia y ayuden a guiar a los demas en sus dudas, preguntas, etc. En principio vamos a pedir al 10% de los participantes que sean ayudantes, y adaptaremos la proporcion si hace falta.
 
 `encargade`
 
-El/la encargade esta para garantizar que salga bien el encuentro. Sabe cual es el tema que se va a tratar. Lo introduce al empezar el encuentro, marca los tiempos para el trabajo en grupos y para la puesta en comun, y ayuda a dar un cierre al final. Puede cambiar de un encuentro a otro.
+Les encargades estan para conducir y garantizar que salga bien el encuentro. Saben cual es el tema que se va a tratar. Lo introducen al empezar el encuentro, marcan los tiempos para el trabajo en grupos y para la puesta en comun, y ayudan a dar un cierre al final en lo posible. Podrian ir cambiando con el tiempo.
