@@ -1,6 +1,6 @@
 ## Club de Datos de Exactas - UBA
 
-Todos los Miercoles a las 18:00. Por *Discord*.
+Todos los Miercoles a las 15:00 en el aula 1112 del pabellón 0 + infinito!
 
 ### Dinámica
 
