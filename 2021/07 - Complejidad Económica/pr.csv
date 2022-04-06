@@ -1,0 +1,1344 @@
+pcode,name
+1,Live animals
+2,Meat and edible meat offal
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates"
+4,Dairy produce; birds eggs; natural honey;
+5,"Products of animal origin, not elsewhere specified"
+6,Live trees and other plants;
+7,Edible vegetables and certain roots and tubers
+8,Edible fruit and nuts; peel of citrus fruit or melons
+9,"Coffee, tea, matF and spices"
+10,Cereals
+11,Products of the milling industry; malt; starches; inulin
+12,Oil seeds and oleaginous fruits
+13,"Lac; gums, resins and other vegetable saps and extracts"
+14,Vegetable plaiting materials; vegetable products nes
+15,Animal or vegetable fats and oils
+16,"Preparations of meat, of fish or of crustaceans"
+17,Sugars and sugar confectionery
+18,Cocoa and cocoa preparations
+19,"Preparations of cereals, flour, starch or milk; bakers' wares"
+20,"Preparations of vegetables, fruit or nuts"
+21,Miscellaneous edible preparations
+22,"Beverages, spirits and vinegar"
+23,Residues and waste from the food industries
+24,Tobacco and manufactured tobacco substitutes
+25,Salt; sulfur; earths and stone; plastering materials
+26,"Ores, slag and ash"
+27,"Mineral fuels, mineral oils and products of their distillation"
+28,Inorganic chemicals
+29,Organic chemicals
+30,Pharmaceutical products
+31,Fertilizers
+32,Tanning or dyeing extracts
+33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations"
+34,"Soap, organic surface-active agents"
+35,Albuminoidal substances; modified starches; glues; enzymes
+36,Explosives; pyrotechnic products; matches
+37,Photographic or cinematographic goods
+38,Miscellaneous chemical products
+39,Plastics and articles thereof
+40,Rubber and articles thereof
+41,Raw hides and skins (other than fur skins) and leather
+42,Articles of leather; saddlery and harness
+43,Fur skins and artificial fur; manufactures thereof
+44,Wood and articles of wood; wood charcoal
+45,Cork and articles of cork
+46,"Manufactures of straw, of esparto or of other plaiting materials"
+47,Pulp of wood or of other fibrous cellulose material
+48,"Paper and paperboard; articles of paper pulp, of paper or of paperboard"
+49,"Printed books, newspapers, pictures and other products of the printing indu ..."
+50,Silk
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric"
+52,Cotton
+53,Other vegetable textile fibers; paper yarn and woven fabric of paper yarn
+54,Man-made filaments
+55,Man-made staple fibers
+56,"Wadding, felt and non-wovens; special yarns, twine, cordage, ropes and cabl ..."
+57,Carpets and other textile floor coverings
+58,"Special woven fabrics; tufted textile fabrics; lace, tapestries; trimmings; ..."
+59,"Impregnated, coated, covered or laminated textile fabrics"
+60,Knitted or crocheted fabrics
+61,"Articles of apparel and clothing accessories, knitted or crocheted"
+62,"Articles of apparel and clothing accessories, not knitted or crocheted"
+63,Other made up textile articles; sets; worn clothing and worn textile articl ...
+64,"Footwear, gaiters and the like; parts of such articles"
+65,Headgear and parts thereof
+66,"Umbrellas, sun umbrellas, walking sticks, seat sticks, whips, riding-crops"
+67,Prepared feathers and down and articles made of feathers or of down
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials"
+69,Ceramic products
+70,Glass and glassware
+71,"Natural or cultured pearls, precious or semi-precious stones"
+72,Iron and steel
+73,Articles of iron or steel
+74,Copper and articles thereof
+75,Nickel and articles thereof
+76,Aluminum and articles thereof
+77,(Reserved for possible future use)
+78,Lead and articles thereof
+79,Zinc and articles thereof
+80,Tin and articles thereof
+81,Other base metals; cermets; articles thereof
+82,"Tools, implements, cutlery, spoons and forks, of base metal"
+83,Miscellaneous articles of base metal
+84,Machinery and mechanical appliances; parts thereof
+85,Electrical machinery and equipment and parts thereof; sound recorders and r ...
+86,"Railway or tramway locomotives, rolling-stock and parts thereof"
+87,Vehicles other than railway or tramway rolling stock
+88,"Aircraft, spacecraft, and parts thereof"
+89,"Ships, boats and floating structures"
+90,"Optical, photographic, cinematographic, measuring, checking, precision, med ..."
+91,Clocks and watches and parts thereof
+92,Musical instruments; parts and accessories of such articles
+93,Arms and ammunition; parts and accessories thereof
+94,"Furniture; bedding, mattresses, cushions and similar stuffed furnishing"
+95,"Toys, games and sports requisites; parts and accessories thereof"
+96,Miscellaneous manufactured articles
+97,"Works of art, collectors' pieces and antiques"
+99,Commodities not specified according to kind
+101,"Live horses, asses, mules and hinnies."
+102,Live bovine animals.
+103,Live swine.
+104,Live sheep and goats.
+105,Live poultry
+106,Other live animals.
+201,"Meat of bovine animals, fresh or chilled."
+202,"Meat of bovine animals, frozen."
+203,"Meat of swine, fresh, chilled or frozen."
+204,"Meat of sheep or goats, fresh, chilled or frozen."
+205,"Meat of horses, asses, mules or hinnies, fresh, chilled or frozen."
+206,"Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules"
+207,"Meat and edible offal, of the poultry of heading 01.05"
+208,"Other meat and edible meat offal, fresh, chilled or frozen."
+209,"Pig fat, free of lean meat, and poultry fat"
+210,"Meat and edible meat offal, salted, in brine, dried or smoked"
+301,Live fish.
+302,"Fish, fresh or chilled, excluding fish fillets"
+303,"Fish, frozen, excluding fish fillets"
+304,Fish fillets and other fish meat (whether or not minced)
+305,"Fish, dried, salted or in brine;"
+306,"Crustaceans, whether in shell or not"
+307,"Molluscs, whether in shell or not"
+401,"Milk and cream, not concentrated nor containing added sugar"
+402,"Milk and cream, concentrated or containing added sugar"
+403,"Buttermilk, curdled milk and cream or yogurt"
+404,"Whey, whether or not concentrated or containing added sugar"
+405,Butter and other fats and oils derived from milk; dairy spreads.
+406,Cheese and curd.
+407,"Birds' eggs, in shell, fresh, preserved or cooked."
+408,"Birds' eggs, not in shell, and egg yolks"
+409,Natural honey.
+410,"Edible products of animal origin, not elsewhere specified"
+501,"Human hair, unworked, whether or not washed or scoured; waste of human hair ..."
+502,"Pigs', hogs' or boars' bristles and hair;"
+503,Horsehair and horsehair waste
+504,"Guts, bladders and stomachs of animals (other than fish)"
+505,"Skins and other parts of birds, with their feathers or down"
+506,"Bones and horn-cores, unworked, defatted"
+507,"Ivory, tortoise-shell, whalebone, horns, antlers, hooves, nails, etc"
+508,"Coral and similar materials, unworked or simply prepared"
+509,Natural sponges of animal origin.
+510,"Ambergris, castoreum, civet and musk;"
+511,Animal products not elsewhere specified or included;
+601,"Bulbs, tubers, tuberous roots, corms, crowns and rhizomes"
+602,"Other live plants (including their roots), cuttings and slips"
+603,Cut flowers and flower buds of a kind suitable for bouquets
+604,"Foliage, branches and other parts of plants"
+701,"Potatoes, fresh or chilled."
+702,"Tomatoes, fresh or chilled."
+703,"Onions, shallots, garlic, leeks and other alliaceous vegetables"
+704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas"
+705,Lettuce (Lactuca sativa) and chicory (Cichorium spp.)
+706,"Carrots, turnips and similar edible roots,"
+707,"Cucumbers and gherkins, fresh or chilled."
+708,"Leguminous vegetables, shelled or unshelled, fresh or chilled."
+709,"Other vegetables, fresh or chilled."
+710,"Vegetables (uncooked), frozen."
+711,Vegetables provisionally preserved
+712,"Dried vegetables, whole, cut, sliced, broken or in powder"
+713,"Dried leguminous vegetables, shelled"
+714,"Manioc, arrowroot, sweet potatoes and similar roots"
+801,"Coconuts, Brazil nuts and cashew nuts, fresh or dried"
+802,"Other nuts, fresh or dried"
+803,"Bananas, including plantains"
+804,"Dates, figs, pineapples, avocados and mangosteens, fresh or dried."
+805,"Citrus fruit, fresh or dried."
+806,"Grapes, fresh or dried."
+807,"Melons (including watermelons) and papaws (papayas), fresh."
+808,"Apples, pears and quinces, fresh."
+809,"Apricots, cherries, peaches (including nectarines), plums and sloes, fresh. ..."
+810,"Other fruit, fresh"
+811,Fruit and nuts
+812,"Fruit and nuts, provisionally preserved"
+813,"Fruit, dried"
+814,Peel of citrus fruit or melons (including watermelons)
+901,"Coffee, whether or not roasted or decaffeinated"
+902,"Tea, whether or not flavoured."
+903,MatF
+904,Pepper of the genus Piper
+905,Vanilla
+906,Cinnamon and cinnamon-tree flowers.
+907,"Cloves (whole fruit, cloves and stems)"
+908,"Nutmeg, mace and cardamoms"
+909,"Seeds of anise, badian, fennel, coriander, cumin or caraway"
+910,"Ginger, saffron, turmeric (curcuma), thyme and other spices"
+1001,Wheat and meslin.
+1002,Rye.
+1003,Barley.
+1004,Oats.
+1005,Maize (corn).
+1006,Rice.
+1007,Grain sorghum.
+1008,"Buckwheat, millet and canary seed; other cereals."
+1101,Wheat or meslin flour.
+1102,Cereal flours other than of wheat or meslin.
+1103,"Cereal groats, meal and pellets."
+1104,Cereal grains otherwise worked
+1105,"Flour, meal, powder, flakes, granules and pellets of potatoes."
+1106,"Flour, meal and powder of heading 07.13"
+1107,"Malt, whether or not roasted."
+1108,Starches; inulin.
+1109,"Wheat gluten, whether or not dried."
+1201,"Soya beans, whether or not broken."
+1202,"Ground-nuts, not roasted or otherwise cooked"
+1203,Copra.
+1204,"Linseed, whether or not broken."
+1205,"Rape or colza seeds, whether or not broken."
+1206,"Sunflower seeds, whether or not broken."
+1207,Other oil seeds and oleaginous fruits
+1208,Flours and meals of oil seeds or oleaginous fruits
+1209,"Seeds, fruit and spores, of a kind used for sowing."
+1210,"Hop cones, fresh or dried"
+1211,Plants and parts of plants (including seeds and fruits)
+1212,"Locust beans, seaweeds and other algae"
+1213,"Cereal straw and husks, unprepared"
+1214,"Swedes, mangolds, fodder roots, hay, lucerne (alfalfa)"
+1301,"Lac; natural gums, resins, gum-resins and oleoresins"
+1302,Vegetable saps and extracts; pectic substances
+1401,Vegetable materials primarily for plaiting
+1402,Vegetable materials primarily as stuffing
+1403,Vegetable materials primarily in brooms
+1404,Vegetable products not elsewhere specified
+1501,Pig fat (including lard) and poultry fat
+1502,"Fats of bovine animals, sheep or goats"
+1503,"Lard stearin, lard oil, oleostearin and tallow oil"
+1504,"Fats and oils and their fractions, of fish or marine mammals"
+1505,Wool grease and fatty substances derived therefrom
+1506,"Other animal fats and oils and their fractions,"
+1507,Soya-bean oil and its fractions
+1508,Ground-nut oil and its fractions
+1509,Olive oil and its fractions
+1510,"Other oils and their fractions, obtained solely from olives"
+1511,Palm oil and its fractions
+1512,"Sunflower-seed, safflower or cotton-seed oil"
+1513,"Coconut (copra), palm kernel or babassu oil"
+1514,"Rape, colza or mustard oil"
+1515,Other fixed vegetable fats and oils
+1516,Animal or vegetable fats and oils
+1517,Margarine; edible mixtures
+1518,Animal or vegetable fats and oils
+1520,"Glycerol, crude; glycerol waters and glycerol lyes."
+1521,Vegetable waxes (other than triglycerides)
+1522,Degras; residues
+1601,"Sausages and similar products, of meat, meat offal or blood"
+1602,"Other prepared or preserved meat, meat offal or blood."
+1603,"Extracts and juices of meat, fish or crustaceans"
+1604,Prepared or preserved fish; caviar
+1605,"Crustaceans, molluscs and other aquatic invertebrates"
+1701,"Cane or beet sugar and pure sucrose, in solid form."
+1702,"Other sugars, including pure lactose, glucose and fructose"
+1703,Molasses resulting from the extraction or refining of sugar.
+1704,"Sugar confectionery, not containing cocoa."
+1801,"Cocoa beans, whole or broken, raw or roasted."
+1802,"Cocoa shells, husks, skins and other cocoa waste."
+1803,"Cocoa paste, whether or not defatted."
+1804,"Cocoa butter, fat and oil."
+1805,"Cocoa powder, not containing added sugar"
+1806,Chocolate and other food preparations containing cocoa.
+1901,Malt extract; food preparations of flour
+1902,"Pasta, whether or not cooked or stuffed"
+1903,Tapioca and substitutes therefor prepared from starch
+1904,Prepared foods
+1905,"Bread, pastry, cakes, biscuits and other bakers' wares"
+2001,"Vegetables, fruit or nuts"
+2002,Tomatoes prepared or preserved
+2003,"Mushrooms and truffles, prepared or preserved"
+2004,Other vegetables prepared or preserved
+2005,Other vegetables prepared or preserved
+2006,"Vegetables, fruit, nuts, fruit-peel"
+2007,"Jams, fruit jellies, marmalades, fruit or nut pastes"
+2008,"Fruit, nuts and other edible parts of plants"
+2009,Fruit juices (including grape must) and vegetable juices
+2101,"Extracts, essences and concentrates, of coffee, tea or matF"
+2102,Yeasts (active or inactive)
+2103,Sauces and preparations therefor
+2104,Soups and broths and preparations therefor
+2105,"Ice cream and other edible ice, whether or not containing cocoa."
+2106,Food preparations not elsewhere specified or included.
+2201,"Waters, including natural or artificial mineral waters"
+2202,Waters with added sugar
+2203,Beer made from malt.
+2204,"Wine of fresh grapes, including fortified wines"
+2205,Vermouth and other wine of fresh grapes
+2206,Other fermented beverages
+2207,Alcohol of a strength by volume of 80 % vol or higher
+2208,Alcohol of a strength by volume of less than 80 % vol
+2209,Vinegar and substitutes for vinegar obtained from acetic acid.
+2301,"Flours, meals and pellets, of meat or meat offal"
+2302,"Bran, sharps and other residues"
+2303,Residues of starch manufacture and similar residues
+2304,Oil-cake and other solid residues
+2305,Oil-cake and other solid residues
+2306,Oil-cake and other solid residues
+2307,Wine lees; argol.
+2308,Vegetable materials and vegetable waste
+2309,Preparations of a kind used in animal feeding.
+2401,Unmanufactured tobacco; tobacco refuse.
+2402,"Cigars, cheroots, cigarillos and cigarettes"
+2403,Other manufactured tobacco and tobacco substitutes
+2501,Salt (including table salt)
+2502,Unroasted iron pyrites.
+2503,Sulphur of all kinds
+2504,Natural graphite.
+2505,Natural sands of all kinds
+2506,Quartz (other than natural sands); quartzite
+2507,"Kaolin and other kaolinic clays, whether or not calcined."
+2508,"Other clays (not including expanded clays of heading 68.06), andalusite, ky ..."
+2509,Chalk.
+2510,Natural calcium phosphates
+2511,Natural barium sulphate (barytes)
+2512,Siliceous fossil meals
+2513,Pumice stone; emery; other natural abrasives
+2514,Slate
+2515,"Marble, travertine, ecaussine and other stone"
+2516,"Granite, porphyry, basalt, sandstone and other stone"
+2517,"Pebbles, gravel, broken or crushed stone"
+2518,"Dolomite, whether or not calcined or sintered"
+2519,Natural magnesium carbonate (magnesite)
+2520,Gypsum; anhydrite; plasters
+2521,Limestone flux; limestone
+2522,"Quicklime, slaked lime and hydraulic lime"
+2523,"Portland cement, aluminous cement, slag cement"
+2524,Asbestos.
+2525,"Mica, including splitings; mica waste."
+2526,"Natural steatite, whether or not roughly trimmed"
+2528,Natural borates and concentrates thereof
+2529,Felspar; leucite and nepheline syenite
+2530,Mineral substances
+2601,Iron ores and concentrates
+2602,Manganese ores and concentrates
+2603,Copper ores and concentrates.
+2604,Nickel ores and concentrates.
+2605,Cobalt ores and concentrates.
+2606,Aluminium ores and concentrates.
+2607,Lead ores and concentrates.
+2608,Zinc ores and concentrates.
+2609,Tin ores and concentrates.
+2610,Chromium ores and concentrates.
+2611,Tungsten ores and concentrates.
+2612,Uranium or thorium ores and concentrates.
+2613,Molybdenum ores and concentrates.
+2614,Titanium ores and concentrates.
+2615,"Niobium, tantalum, vanadium and concentrates."
+2616,Precious metal ores and concentrates.
+2617,Other ores and concentrates.
+2618,Granulated slag from the manufacture of iron or steel.
+2619,"Slag, dross (other than granulated slag)"
+2620,Ash and residues
+2621,"Other slag and ash, including seaweed ash"
+2701,"Coal; briquettes, ovoids and similar solid fuels manufactured from coal."
+2702,"Lignite, whether or not agglomerated, excluding jet."
+2703,Peat (including peat litter)
+2704,"Coke and semi-coke of coal, of lignite or of peat"
+2705,"Coal gas, water gas, producer gas and similar gases"
+2706,"Tar distilled from coal, from lignite or from peat"
+2707,Oils and other products of high temperature coal tar
+2708,"Pitch and pitch coke, obtained from coal tar"
+2709,"Petroleum oils, crude"
+2710,"Petroleum oils, other than crude"
+2711,Petroleum gases and other gaseous hydrocarbons.
+2712,Petroleum jelly and wax
+2713,Petroleum coke and other residues
+2714,"Bitumen and asphalt, natural"
+2715,Bituminous mixtures based on natural asphalt
+2716,Electrical energy. (optional heading)
+2801,"Fluorine, chlorine, bromine and iodine."
+2802,"Sulphur, sublimed or precipitated"
+2803,Carbon
+2804,"Hydrogen, rare gases and other non-metals."
+2805,Alkali or alkaline-earth metals;
+2806,Hydrogen chloride (hydrochloric acid);
+2807,Sulphuric acid; oleum.
+2808,Nitric acid; sulphonitric acids.
+2809,Diphosphorus pentaoxide; phosphoric acid;
+2810,Oxides of boron; boric acids.
+2811,Other inorganic acids and oxygen compounds
+2812,Halides and halide oxides of non-metals.
+2813,Sulphides of non-metals; commercial phosphorus trisulphide.
+2814,"Ammonia, anhydrous or in aqueous solution."
+2815,Sodium hydroxide (caustic soda);
+2816,Hydroxide and peroxide of magnesium;
+2817,Zinc oxide; zinc peroxide.
+2818,"Artificial corundum, whether or not chemically defined;"
+2819,Chromium oxides and hydroxides.
+2820,Manganese oxides.
+2821,Iron oxides and hydroxides
+2822,Cobalt oxides and hydroxides
+2823,Titanium oxides.
+2824,Lead oxides; red lead and orange lead.
+2825,Hydrazine and hydroxylamine and their inorganic salts
+2826,Fluorides; fluorosilicates and other complex fluorine salts.
+2827,"Chlorides, chloride oxides and chloride hydroxides"
+2828,Hypochlorites; commercial calcium hypochlorite
+2829,Chlorates and perchlorates; bromates and perbromates
+2830,Sulphides; polysulphides
+2831,Dithionites and sulphoxylates.
+2832,Sulphites; thiosulphates.
+2833,Sulphates; alums; peroxosulphates (persulphates).
+2834,Nitrites; nitrates.
+2835,"Phosphinates (hypophosphites), phosphonates (phosphites) and phosphates"
+2836,Carbonates; peroxocarbonates (percarbonates)
+2837,"Cyanides, cyanide oxides and complex cyanides."
+2838,"Fulminates, cyanates and thiocyanates."
+2839,Silicates; commercial alkali metal silicates.
+2840,Borates; peroxoborates (perborates).
+2841,Salts of oxometallic or peroxometallic acids.
+2842,Other salts of inorganic acids or peroxoacids
+2843,Colloidal precious metals
+2844,Radioactive chemical elements and radioactive isotopes
+2845,Isotopes other than those of heading 28.44
+2846,"Compounds, inorganic or organic, of rare-earth metals"
+2847,"Hydrogen peroxide, whether or not solidified with urea"
+2848,"Phosphides, excluding ferrophosphorus"
+2849,"Carbides, whether or not chemically defined."
+2850,"Hydrides, nitrides, azides, silicides and borides"
+2851,Other inorganic compounds
+2901,Acyclic hydrocarbons.
+2902,Cyclic hydrocarbons.
+2903,Halogenated derivatives of hydrocarbons.
+2904,"Sulphonated, nitrated or nitrosated derivatives of hydrocarbons"
+2905,Acyclic alcohols and their derivatives
+2906,Cyclic alcohols and their derivatives
+2907,Phenols; phenol-alcohols.
+2908,"Halogenated, sulphonated, nitrated or nitrosated derivatives of phenols"
+2909,"Ethers, ether-alcohols, ether-phenols, ether-alcohol-phenols"
+2910,"Epoxides, epoxyalcohols, epoxyphenols and epoxyethers"
+2911,Acetals and hemiacetals
+2912,"Aldehydes, whether or not with other oxygen function"
+2913,"Halogenated, sulphonated derivatives of products of heading 29."
+2914,Ketones and quinones
+2915,Saturated acyclic monocarboxylic acids and their anhydrides
+2916,Unsaturated acyclic monocarboxylic acids
+2917,"Polycarboxylic acids, their anhydrides"
+2918,Carboxylic acids with additional oxygen function
+2919,Phosphoric esters and their salts
+2920,Esters of other inorganic acids of non-metals
+2921,Amine-function compounds
+2922,Oxygen-function amino-compounds
+2923,Quaternary ammonium salts and hydroxides
+2924,Carboxyamide-function compounds
+2925,Carboxyimide-function compounds
+2926,Nitrile-function compounds.
+2927,"Diazo-, azo- or azoxy-compounds"
+2928,Organic derivatives of hydrazine or of hydroxylamine.
+2929,Compounds with other nitrogen function.
+2930,Organo-sulphur compounds.
+2931,Other organo-inorganic compounds.
+2932,Heterocyclic compounds with oxygen hetero-atom(s) only.
+2933,Heterocyclic compounds with nitrogen hetero-atom(s) only.
+2934,Nucleic acids and their salts
+2935,Sulphonamides.
+2936,"Provitamins and vitamins, natural or reproduced by synthesis"
+2937,"Hormones, prostaglandins, thromboxanes and leukotrienes"
+2938,"Glycosides, natural or reproduced by synthesis"
+2939,"Vegetable alkaloids, natural or reproduced by synthesis"
+2940,"Sugars, chemically pure, other than sucrose, lactose"
+2941,Antibiotics.
+2942,Other organic compounds.
+3001,"Glands and other organs for organo-therapeutic uses, dried"
+3002,Human blood; animal blood prepared for therapeutic uses
+3003,"Medicaments (excluding goods of heading 30.02, 30.05 or 30.06)"
+3004,"Medicaments (excluding goods of heading 30.02, 30.05 or 30.06)"
+3005,"Wadding, gauze, bandages and similar articles"
+3006,Pharmaceutical goods specified in Note 4 to this Chapter.
+3101,Animal or vegetable fertilisers
+3102,"Mineral or chemical fertilisers, nitrogenous."
+3103,"Mineral or chemical fertilisers, phosphatic."
+3104,"Mineral or chemical fertilisers, potassic."
+3105,Mineral or chemical fertilisers
+3201,Tanning extracts of vegetable origin
+3202,Synthetic organic tanning substances
+3203,Colouring matter of vegetable or animal origin
+3204,Synthetic organic colouring matter
+3205,Colour lakes; preparations
+3206,Other colouring matter
+3207,"Prepared pigments, prepared opacifiers and prepared colours"
+3208,Paints and varnishes
+3209,Paints and varnishes
+3210,Other paints and varnishes
+3211,Prepared driers.
+3212,Pigments dispersed in non-aqueous media
+3213,"Artists', students' or signboard painters' colours"
+3214,"Glaziers' putty, grafting putty, resin cements"
+3215,"Printing ink, writing or drawing ink"
+3301,"Essential oils (terpeneless or not), including concretes"
+3302,Mixtures of odoriferous substances and mixtures
+3303,Perfumes and toilet waters.
+3304,Beauty or make-up preparations
+3305,Preparations for use on the hair
+3306,Preparations for oral or dental hygiene
+3307,"Pre-shave, shaving or after-shave preparations"
+3401,Soap; organic surface-active products
+3402,Organic surface-active agents (other than soap)
+3403,Lubricating preparations
+3404,Artificial waxes and prepared waxes
+3405,"Polishes and creams, for footwear, furniture, floors"
+3406,"Candles, tapers and the like."
+3407,Modelling pastes
+3501,"Casein, caseinates and other casein derivatives; casein glues."
+3502,Albumins (including concentrates of two or more whey proteins
+3503,Gelatin (including gelatin in rectangular (including square) sheets
+3504,Peptones and their derivatives
+3505,Dextrins and other modified starches
+3506,Prepared glues and other prepared adhesives
+3507,Enzymes; prepared enzymes
+3601,Propellent powders.
+3602,Prepared explosives
+3603,Safety fuses; detonating fuses
+3604,"Fireworks, signalling flares, rain rockets"
+3605,"Matches, other than pyrotechnic articles of heading 36.04."
+3606,Ferro-cerium and other pyrophoric alloys in all forms
+3701,"Photographic plates and film in the flat, sensitised, unexposed"
+3702,"Photographic film in rolls, sensitised, unexposed"
+3703,"Photographic paper, paperboard and textiles, sensitised, unexposed."
+3704,"Photographic plates, film, paper, paperboard and textiles, exposed"
+3705,"Photographic plates and film, exposed and developed"
+3706,"Cinematographic film, exposed and developed"
+3707,Chemical preparations for photographic uses
+3801,Artificial graphite; colloidal or semi-colloidal graphite
+3802,Activated carbon; activated natural mineral products
+3803,"Tall oil, whether or not refined."
+3804,Residual lyes from the manufacture of wood pulp
+3805,"Gum, wood or sulphate turpentine and other terpenic oils"
+3806,"Rosin and resin acids, and derivatives thereof"
+3807,Wood tar; wood tar oils; wood creosote
+3808,"Insecticides, rodenticides, fungicides, herbicides"
+3809,"Finishing agents, dye carriers to accelerate the dyeing"
+3810,Pickling preparations for metal surfaces
+3811,"Anti-knock preparations, oxidation inhibitors, gum inhibitors"
+3812,Prepared rubber accelerators
+3813,Preparations and charges for fire-extinguishers
+3814,Organic composite solvents and thinners
+3815,"Reaction initiators, reaction accelerators and catalytic preparations"
+3816,"Refractory cements, mortars, concretes and similar compositions"
+3817,Mixed alkylbenzenes and mixed alkylnaphthalenes
+3818,Chemical elements doped for use in electronics
+3819,Hydraulic brake fluids and other prepared liquids for hydraulic transmissio ...
+3820,Anti-freezing preparations and prepared de-icing fluids.
+3821,Prepared culture media for development of micro-organisms.
+3822,Diagnostic or laboratory reagents
+3823,Industrial monocarboxylic fatty acids
+3824,Prepared binders for foundry moulds or cores
+3825,Residual products of the chemical or allied industries
+3901,"Polymers of ethylene, in primary forms."
+3902,"Polymers of propylene or of other olefins, in primary forms."
+3903,"Polymers of styrene, in primary forms."
+3904,"Polymers of vinyl chloride or of other halogenated olefins, in primary form ..."
+3905,"Polymers of vinyl acetate or of other vinyl esters, in primary forms"
+3906,Acrylic polymers in primary forms.
+3907,"Polyacetals, other polyethers and epoxide resins, in primary forms"
+3908,Polyamides in primary forms.
+3909,"Amino-resins, phenolic resins and polyurethanes, in primary forms."
+3910,Silicones in primary forms.
+3911,"Petroleum resins, coumarone-indene resins, polyterpenes"
+3912,Cellulose and its chemical derivatives
+3913,Natural polymers and modified natural polymers
+3914,"Ion-exchangers based on polymers of headings 39.01 to 39.13, in primary for ..."
+3915,"Waste, parings and scrap, of plastics."
+3916,Monofilament of which any cross-sectional dimension exceeds 1 mm
+3917,"Tubes, pipes and hoses, and fittings therefor"
+3918,Floor coverings of plastics in rolls
+3919,"Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes ..."
+3920,"Other plates, sheets, film, foil and strip, of plastics"
+3921,"Other plates, sheets, film, foil and strip, of plastics"
+3922,"Baths, shower-baths, sinks, wash-basins, bidets, lavatory pans"
+3923,"Articles for the conveyance or packing of goods, of plastics"
+3924,"Tableware, kitchenware, other household articles and toilet articles, of pl ..."
+3925,"Builders' ware of plastics, not elsewhere specified or included."
+3926,Other articles of plastics and articles of other materials of headings 39.0 ...
+4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar natural g ..."
+4002,Synthetic rubber and factice derived from oils
+4003,"Reclaimed rubber in primary forms or in plates, sheets or strip."
+4004,"Waste, parings and scrap of rubber"
+4005,"Compounded rubber, unvulcanised, in primary forms or in plates, sheets or s ..."
+4006,"Other forms (for example, rods, tubes and profile shapes) and articles"
+4007,Vulcanised rubber thread and cord.
+4008,"Plates, sheets, strip, rods and profile shapes, of vulcanised rubber"
+4009,"Tubes, pipes and hoses, of vulcanised rubber other than hard rubber"
+4010,"Conveyor or transmission belts or belting, of vulcanised rubber."
+4011,"New pneumatic tyres, of rubber."
+4012,Retreaded or used pneumatic tyres of rubber
+4013,"Inner tubes, of rubber."
+4014,"Hygienic or pharmaceutical articles (including teats), of vulcanised rubber ..."
+4015,Articles of apparel and clothing accessories
+4016,Other articles of vulcanised rubber other than hard rubber.
+4017,"Hard rubber (for example, ebonite) in all forms, including waste and scrap"
+4101,Raw hides and skins of bovine (including buffalo) or equine animals
+4102,Raw skins of sheep or lambs
+4103,Other raw hides and skins
+4104,Tanned or crust hides and skins of bovine (including buffalo)
+4105,"Tanned or crust skins of sheep or lambs, without wool on"
+4106,"Tanned or crust hides and skins of other animals, without wool or hair on"
+4107,Leather further prepared after tanning or crusting
+4112,Leather further prepared after tanning or crusting
+4113,Leather further prepared after tanning or crusting
+4114,Chamois (including combination chamois) leather
+4115,Composition leather with a basis of leather or leather fibre
+4201,Saddlery and harness for any animal
+4202,"Trunks, suit-cases, vanity-cases, executive-cases, brief-cases"
+4203,"Articles of apparel and clothing accessories, of leather"
+4204,Articles of leather or of composition leather
+4205,Other articles of leather or of composition leather.
+4206,Articles of gut (other than silk-worm gut)
+4301,"Raw furskins (including heads, tails, paws and other pieces or cuttings"
+4302,"Tanned or dressed furskins (including heads, tails, paws and other pieces o ..."
+4303,"Articles of apparel, clothing accessories and other articles of furskin."
+4304,Artificial fur and articles thereof.
+4401,"Fuel wood, in logs, in billets, in twigs, in faggots or in similar forms"
+4402,"Wood charcoal (including shell or nut charcoal), whether or not agglomerate ..."
+4403,"Wood in the rough, whether or not stripped of bark or sapwood, or roughly s ..."
+4404,"Hoopwood; split poles; piles, pickets and stakes of wood"
+4405,Wood wool; wood flour.
+4406,Railway or tramway sleepers (cross-ties) of wood.
+4407,"Wood sawn or chipped lengthwise, sliced or peeled"
+4408,Sheets for veneering
+4409,"Wood (including strips and friezes for parquet flooring, not assembled)"
+4410,Particle board and similar board
+4411,Fibreboard of wood or other ligneous materials
+4412,"Plywood, veneered panels and similar laminated wood."
+4413,"Densified wood, in blocks, plates, strips or profile shapes."
+4414,"Wooden frames for paintings, photographs, mirrors or similar objects."
+4415,"Packing cases, boxes, crates, drums and similar packings, of wood"
+4416,"Casks, barrels, vats, tubs and other coopers' products"
+4417,"Tools, tool bodies, tool handles, broom or brush bodies and handles, of woo ..."
+4418,Builders' joinery and carpentry of wood
+4419,"Tableware and kitchenware, of wood."
+4420,Wood marquetry and inlaid wood
+4421,Other articles of wood.
+4501,"Natural cork, raw or simply prepared; waste cork"
+4502,"Natural cork, debacked or roughly squared"
+4503,Articles of natural cork.
+4504,Agglomerated cork (with or without a binding substance)
+4601,Plaits and similar products of plaiting materials
+4602,"Basketwork, wickerwork and other articles"
+4701,Mechanical wood pulp.
+4702,"Chemical wood pulp, dissolving grades."
+4703,"Chemical wood pulp, soda or sulphate, other than dissolving grades."
+4704,"Chemical wood pulp, sulphite, other than dissolving grades."
+4705,Wood pulp obtained by a combination of mechanical and chemical pulping proc ...
+4706,Pulps of fibres derived from recovered (waste and scrap) paper
+4707,Recovered (waste and scrap) paper or paperboard.
+4801,"Newsprint, in rolls or sheets."
+4802,"Uncoated paper and paperboard, of a kind used for writing"
+4803,"Toilet or facial tissue stock, towel or napkin stock"
+4804,"Uncoated kraft paper and paperboard, in rolls or sheets"
+4805,"Other uncoated paper and paperboard, in rolls or sheets"
+4806,"Vegetable parchment, greaseproof papers"
+4807,Composite paper and paperboard
+4808,"Paper and paperboard, corrugated"
+4809,"Carbon paper, self-copy paper and other copying or transfer papers"
+4810,"Paper and paperboard, coated on one or both sides with kaolin"
+4811,"Paper, paperboard, cellulose wadding and webs of cellulose fibres"
+4812,"Filter blocks, slabs and plates, of paper pulp."
+4813,"Cigarette paper, whether or not cut to size or in the form of booklets or t ..."
+4814,Wallpaper and similar wall coverings; window transparencies of paper.
+4815,"Floor coverings on a base of paper or of paperboard, whether or not cut to  ..."
+4816,"Carbon paper, self-copy paper and other copying or transfer papers"
+4817,"Envelopes, letter cards, plain postcards and correspondence cards, of paper ..."
+4818,"Toilet paper and similar paper, cellulose wadding or webs of cellulose fibr ..."
+4819,"Cartons, boxes, cases, bags and other packing containers, of paper"
+4820,"Registers, account books, note books, order books, receipt books"
+4821,"Paper or paperboard lables of all kinds, whether or not printed."
+4822,"Bobbins, spools, cops and similar supports of paper pulp, paper or paperboa ..."
+4823,"Other paper, paperboard, cellulose wadding and webs of cellulose fibres"
+4901,"Printed books, brochures, leaflets and similar printed matter"
+4902,"Newspapers, journals and periodicals"
+4903,"Children's picture, drawing or colouring books."
+4904,"Music, printed or in manuscript, whether or not bound or illustrated."
+4905,Maps and hydrographic or similar charts of all kinds
+4906,"Plans and drawings for architectural, engineering, industrial, commercial"
+4907,"Unused postage, revenue or similar stamps of current or new issue"
+4908,Transfers (decalcomanias).
+4909,Printed or illustrated postcards
+4910,"Calendars of any kind, printed, including calendar blocks."
+4911,"Other printed matter, including printed pictures and photographs."
+5001,Silk-worm cocoons suitable for reeling.
+5002,Raw silk (not thrown).
+5003,Silk waste
+5004,Silk yarn (other than yarn spun from silk waste) not put up for retail sale ...
+5005,"Yarn spun from silk waste, not put up for retail sale."
+5006,"Silk yarn and yarn spun from silk waste, put up for retail sale; silk-worm  ..."
+5007,Woven fabrics of silk or of silk waste.
+5101,"Wool, not carded or combed."
+5102,"Fine or coarse animal hair, not carded or combed."
+5103,Waste of wool or of fine or coarse animal hair
+5104,Garnetted stock of wool or of fine or coarse animal hair.
+5105,"Wool and fine or coarse animal hair, carded or combed"
+5106,"Yarn of carded wool, not put up for retail sale."
+5107,"Yarn of combed wool, not put up for retail sale."
+5108,"Yarn of fine animal hair (carded or combed), not put up for retail sale."
+5109,"Yarn of wool or of fine animal hair, put up for retail sale."
+5110,Yarn of coarse animal hair or of horsehair
+5111,Woven fabrics of carded wool or of carded fine animal hair.
+5112,Woven fabrics of combed wool or of combed fine animal hair.
+5113,Woven fabrics of coarse animal hair or of horsehair.
+5201,"Cotton, not carded or combed."
+5202,Cotton waste (including yarn waste and garnetted stock).
+5203,"Cotton, carded or combed."
+5204,"Cotton sewing thread, whether or not put up for retail sale."
+5205,"Cotton yarn (other than sewing thread), containing 85 % or more by weight o ..."
+5206,"Cotton yarn (other than sewing thread), containing less than 85 % by weight ..."
+5207,Cotton yarn (other than sewing thread) put up for retail sale.
+5208,"Woven fabrics of cotton, containing 85 % or more by weight of cotton"
+5209,"Woven fabrics of cotton, containing 85 % or more by weight of cotton"
+5210,"Woven fabrics of cotton, containing less than 85 % by weight of cotton"
+5211,"Woven fabrics of cotton, containing less than 85 % by weight of cotton"
+5212,Other woven fabrics of cotton.
+5301,"Flax, raw or processed but not spun; flax tow and waste"
+5302,"True hemp (Cannabis sativa L.), raw or processed but not spun"
+5303,"Jute and other textile bast fibres (excluding flax, true hemp and ramie)"
+5304,"Sisal and other textile fibres of the genus Agave, raw or processed but not ..."
+5305,"Coconut, abaca, ramie and other vegetable textile fibres"
+5306,Flax yarn.
+5307,Yarn of jute or of other textile bast fibres of heading 53.03.
+5308,Yarn of other vegetable textile fibres; paper yarn.
+5309,Woven fabrics of flax.
+5310,Woven fabrics of jute or of other textile bast fibres of heading 53.03.
+5311,Woven fabrics of other vegetable textile fibres; woven fabrics of paper yar ...
+5401,"Sewing thread of man-made filaments, whether or not put up for retail sale. ..."
+5402,Synthetic filament yarn (other than sewing thread)
+5403,Artificial filament yarn (other than sewing thread)
+5404,Synthetic monofilament of 67 decitex or more
+5405,Artificial monofilament of 67 decitex or more
+5406,"Man-made filament yarn (other than sewing thread), put up for retail sale."
+5407,Woven fabrics of synthetic filament yarn
+5408,Woven fabrics of artificial filament yarn
+5501,Synthetic filament tow.
+5502,Artificial filament tow.
+5503,"Synthetic staple fibres, not carded, combed or otherwise processed for spin ..."
+5504,"Artificial staple fibres, not carded, combed or otherwise processed for spi ..."
+5505,"Waste (including noils, yarn waste and garnetted stock) of man-made fibres. ..."
+5506,"Synthetic staple fibres, carded, combed or otherwise processed for spinning ..."
+5507,"Artificial staple fibres, carded, combed or otherwise processed for spinnin ..."
+5508,"Sewing thread of man-made staple fibres, whether or not put up for retail s ..."
+5509,"Yarn (other than sewing thread) of synthetic staple fibres, not put up for  ..."
+5510,"Yarn (other than sewing thread) of artificial staple fibres, not put up for ..."
+5511,"Yarn (other than sewing thread) of man-made staple fibres, put up for retai ..."
+5512,Woven fabrics of synthetic staple fibres
+5513,Woven fabrics of synthetic staple fibres
+5514,Woven fabrics of synthetic staple fibres
+5515,Other woven fabrics of synthetic staple fibres.
+5516,Woven fabrics of artificial staple fibres.
+5601,Wadding of textile materials and articles thereof; textile fibres
+5602,"Felt, whether or not impregnated, coated, covered or laminated."
+5603,"Nonwovens, whether or not impregnated, coated, covered or laminated."
+5604,"Rubber thread and cord, textile covered; textile yarn, and strip"
+5605,"Metallised yarn, whether or not gimped, being textile yarn, or strip"
+5606,"Gimped yarn, and strip and the like of heading 54.04 or 54.05, gimped"
+5607,"Twine, cordage, ropes and cables, whether or not plaited or braided"
+5608,"Knotted netting of twine, cordage or rope; made up fishing nets"
+5609,"Articles of yarn, strip or the like of heading 54.04 or 54.05"
+5701,"Carpets and other textile floor coverings, knotted, whether or not made up. ..."
+5702,"Carpets and other textile floor coverings, woven, not tufted or flocked"
+5703,"Carpets and other textile floor coverings, tufted, whether or not made up."
+5704,"Carpets and other textile floor coverings, of felt, not tufted or flocked"
+5705,"Other carpets and other textile floor coverings, whether or not made up."
+5801,"Woven pile fabrics and chenille fabrics, other than fabrics of heading 58.0 ..."
+5802,Terry towelling and similar woven terry fabrics
+5803,"Gauze, other than narrow fabrics of heading 58.06."
+5804,"Tulles and other net fabrics, not including woven, knitted or crocheted fab ..."
+5805,"Hand-woven tapestries of the type Gobelins, Flanders, Aubusson, Beauvais an ..."
+5806,"Narrow woven fabrics, other than goods of heading 58.07"
+5807,"Labels, badges and similar articles of textile materials"
+5808,Braids in the piece; ornamental trimmings
+5809,Woven fabrics of metal thread and woven fabrics of metallised yarn
+5810,"Embroidery in the piece, in strips or in motifs."
+5811,Quilted textile products in the piece
+5901,Textile fabrics coated with gum or amylaceous substances
+5902,Tyre cord fabric of high tenacity yarn of nylon or other polyamides
+5903,"Textile fabrics impregnated, coated, covered or laminated with plastics"
+5904,"Linoleum, whether or not cut to shape"
+5905,Textile wall coverings.
+5906,"Rubberised textile fabrics, other than those of heading 59.02."
+5907,"Textile fabrics otherwise impregnated, coated or covered"
+5908,"Textile wicks, woven, plaited or knitted , for lamps, stoves"
+5909,Textile hosepiping and similar textile tubing
+5910,"Transmission or conveyor belts or belting, of textile material"
+5911,"Textile products and articles, for technical uses"
+6001,"Pile fabrics, including long pile fabrics and terry fabrics, knitted or cro ..."
+6002,Knitted or crocheted fabrics of a width not exceeding 30 cm
+6003,Knitted or crocheted fabrics of a width not exceeding 30 cm
+6004,Knitted or crocheted fabrics of a width exceeding 30 cm
+6005,Warp knit fabrics (including those made on galloon knitting machines)
+6006,Other knitted or crocheted fabrics.
+6101,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks"
+6102,"Women's or girls' overcoats, car-coats, capes, cloaks, anoraks"
+6103,"Men's or boys' suits, ensembles, jackets, blazers, trousers, bib and brace  ..."
+6104,"Women's or girls' suits, ensembles, jackets, blazers, dresses, skirts"
+6105,"Men's or boys' shirts, knitted or crocheted."
+6106,"Women's or girls' blouses, shirts and shirt-blouses, knitted or crocheted."
+6107,"Men's or boys' underpants, briefs, nightshirts, pyjamas, bathrobes"
+6108,"Women's or girls' slips, petticoats, briefs, panties, nightdresses"
+6109,"T-shirts, singlets and other vests, knitted or crocheted."
+6110,"Jerseys, pullovers, cardigans, waist-coats and similar articles, knitted or ..."
+6111,"Babies' garments and clothing accessories, knitted or crocheted."
+6112,"Track suits, ski suits and swimwear, knitted or crocheted."
+6113,"Garments, made up of knitted or crocheted fabrics of heading 59.03, 59.06 o ..."
+6114,"Other garments, knitted or crocheted."
+6115,"Panty hose, tights, stockings, socks and other hosiery"
+6116,"Gloves, mittens and mitts, knitted or crocheted."
+6117,"Other made up clothing accessories, knitted or crocheted"
+6201,"Men's or boys' overcoats, car-coats, capes, cloaks, anoraks"
+6202,"Women's or girls' overcoats, car-coats, capes, cloaks, anoraks"
+6203,"Men's or boys' suits, ensembles, jackets, blazers, trousers"
+6204,"Women's or girls' suits, ensembles, jackets, blazers, dresses, skirts"
+6205,Men's or boys' shirts.
+6206,"Women's or girls' blouses, shirts and shirt-blouses."
+6207,"Men's or boys' singlets and other vests, underpants, briefs, nightshirts"
+6208,"Women's or girls' singlets and other vests, slips, petticoats, briefs"
+6209,Babies' garments and clothing accessories.
+6210,"Garments, made up of fabrics of heading 56.02, 56.03, 59.03, 59.06 or 59.07 ..."
+6211,"Track suits, ski suits and swimwear; other garments."
+6212,"BrassiFres, girdles, corsets, braces, suspenders, garters and similar artic ..."
+6213,Handkerchiefs.
+6214,"Shawls, scarves, mufflers, mantillas, veils and the like."
+6215,"Ties, bow ties and cravats."
+6216,"Gloves, mittens and mitts."
+6217,Other made up clothing accessories
+6301,Blankets and travelling rugs.
+6302,"Bed linen, table linen, toilet linen and kitchen linen."
+6303,Curtains (including drapes) and interior blinds; curtain or bed valances.
+6304,"Other furnishing articles, excluding those of heading 94.04."
+6305,"Sacks and bags, of a kind used for the packing of goods."
+6306,"Tarpaulins, awnings and sunblinds; tents; sails for boats, sailboards or la ..."
+6307,"Other made up articles, including dress patterns."
+6308,"Sets consisting of woven fabric and yarn, whether or not with accessories"
+6309,Worn clothing and other worn articles.
+6310,"Used or new rags, scrap twine, cordage, rope and cables and worn out articl ..."
+6401,Waterproof footwear with outer soles and uppers of rubber or of plastics
+6402,Other footwear with outer soles and uppers of rubber or plastics.
+6403,"Footwear with outer soles of rubber, plastics, leather or composition leath ..."
+6404,"Footwear with outer soles of rubber, plastics, leather or composition leath ..."
+6405,Other footwear.
+6406,Parts of footwear
+6501,"Hat-forms, hat bodies and hoods of felt"
+6502,"Hat-shapes, plaited or made by assembling strips of any material"
+6503,"Felt hats and other felt headgear, made from the hat bodies"
+6504,"Hats and other headgear, plaited or made by assembling strips of any materi ..."
+6505,"Hats and other headgear, knitted or crocheted, or made up from lace"
+6506,"Other headgear, whether or not lined or trimmed."
+6507,"Head-bands, linings, covers, hat foundations, hat frames, peaks and chinstr ..."
+6601,Umbrellas and sun umbrellas
+6602,"Walking-sticks, seat-sticks, whips, riding-crops and the like."
+6603,"Parts, trimmings and accessories of articles of heading 66.01 or 66.02."
+6701,"Skins and other parts of birds with their feathers or down, feathers"
+6702,"Artificial flowers, foliage and fruit and parts thereof"
+6703,"Human hair, dressed, thinned, bleached or otherwise worked"
+6704,"Wigs, false beards, eyebrows and eyelashes, switches and the like"
+6801,"Setts, curbstones and flagstones, of natural stone (except slate)"
+6802,Worked monumental or building stone (except slate) and articles thereof
+6803,Worked slate and articles of slate or of agglomerated slate.
+6804,"Millstones, grindstones, grinding wheels and the like"
+6805,"Natural or artificial abrasive powder or grain, on a base of textile materi ..."
+6806,"Slag wool, rock wool and similar mineral wools"
+6807,Articles of asphalt or of similar material
+6808,"Panels, boards, tiles, blocks and similar articles of vegetable fibre"
+6809,Articles of plaster or of compositions based on plaster.
+6810,"Articles of cement, of concrete or of artificial stone"
+6811,"Articles of asbestos-cement, of cellulose fibre-cement or the like."
+6812,Fabricated asbestos fibres; mixtures with a basis of asbestos
+6813,Friction material and articles thereof
+6814,"Worked mica and articles of mica, including agglomerated"
+6815,Articles of stone or of other mineral substances
+6901,"Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals"
+6902,"Refractory bricks, blocks, tiles and similar refractory ceramic constructio ..."
+6903,Other refractory ceramic goods
+6904,"Ceramic building bricks, flooring blocks, support or filler tiles and the l ..."
+6905,"Roofing tiles, chimney-pots, cowls, chimney liners, architectural ornaments ..."
+6906,"Ceramic pipes, conduits, guttering and pipe fittings."
+6907,"Unglazed ceramic flags and paving, hearth or wall tiles"
+6908,"Glazed ceramic flags and paving, hearth or wall tiles"
+6909,"Ceramic wares for laboratory, chemical or other technical uses"
+6910,"Ceramic sinks, wash basins, wash basin pedestals, baths, bidets, water clos ..."
+6911,"Tableware, kitchenware, other household articles and toilet articles, of po ..."
+6912,"Ceramic tableware, kitchenware, other household articles and toilet article ..."
+6913,Statuettes and other ornamental ceramic articles.
+6914,Other ceramic articles.
+7001,Cullet and other waste and scrap of glass; glass in the mass.
+7002,"Glass in balls (other than microspheres of heading 70.18), rods or tubes, u ..."
+7003,"Cast glass and rolled glass, in sheets or profiles"
+7004,"Drawn glass and blown glass, in sheets"
+7005,"Float glass and surface ground or polished glass, in sheets"
+7006,"Glass of heading 70.03, 70.04 or 70.05, bent, edge-worked, engraved"
+7007,"Safety glass, consisting of toughened (tempered) or laminated glass."
+7008,Multiple-walled insulating units of glass.
+7009,"Glass mirrors, whether or not framed, including rear-view mirrors."
+7010,"Carboys, bottles, flasks, jars, pots, phials, ampoules and other containers ..."
+7011,"Glass envelopes (including bulbs and tubes), open, and glass parts thereof"
+7012,Glass inners for vacuum flasks or for other vacuum vessels.
+7013,"Glassware of a kind used for table, kitchen, toilet, office"
+7014,Signalling glassware and optical elements of glass
+7015,Clock or watch glasses and similar glasses
+7016,"Paving blocks, slabs, bricks, squares, tiles"
+7017,"Laboratory, hygienic or pharmaceutical glassware"
+7018,"Glass beads, imitation pearls, imitation precious or semi-precious stones"
+7019,Glass fibres (including glass wool) and articles thereof
+7020,Other articles of glass.
+7101,"Pearls, natural or cultured"
+7102,"Diamonds, whether or not worked, but not mounted or set."
+7103,Precious stones (other than diamonds) and semi-precious stones
+7104,Synthetic or reconstructed precious or semi-precious stones
+7105,Dust and powder of natural or synthetic precious or semi-precious stones.
+7106,Silver (including silver plated with gold or platinum)
+7107,Base metals clad with silver
+7108,Gold (including gold plated with platinum)
+7109,"Base metals or silver, clad with gold, not further worked than semi-manufac ..."
+7110,"Platinum, unwrought or in semi-manufactured forms, or in powder form."
+7111,"Base metals, silver or gold, clad with platinum"
+7112,Waste and scrap of precious metal or of metal clad with precious metal
+7113,"Articles of jewellery and parts thereof, of precious metal"
+7114,Articles of goldsmiths' or silversmiths' wares
+7115,Other articles of precious metal or of metal clad with precious metal.
+7116,"Articles of natural or cultured pearls, precious or semi-precious stones"
+7117,Imitation jewellery.
+7118,Coin.
+7201,"Pig iron and spiegeleisen in pigs, blocks or other primary forms."
+7202,Ferro-alloys.
+7203,Ferrous products obtained by direct reduction of iron ore
+7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel.
+7205,"Granules and powders, of pig iron, spiegeleisen, iron or steel."
+7206,Iron and non-alloy steel in ingots or other primary forms
+7207,Semi-finished products of iron or non-alloy steel.
+7208,Flat-rolled products of iron or non-alloy steel
+7209,Flat-rolled products of iron or non-alloy steel
+7210,Flat-rolled products of iron or non-alloy steel
+7211,"Flat-rolled products of iron or non-alloy steel, of a width of less than 60 ..."
+7212,"Flat-rolled products of iron or non-alloy steel, of a width of less than 60 ..."
+7213,"Bars and rods, hot-rolled, in irregularly wound coils, of iron or non-alloy ..."
+7214,"Other bars and rods of iron or non-alloy steel, not further worked than for ..."
+7215,Other bars and rods of iron or non-alloy steel.
+7216,"Angles, shapes and sections of iron or non-alloy steel."
+7217,Wire of iron or non-alloy steel.
+7218,Stainless steel in ingots or other primary forms
+7219,"Flat-rolled products of stainless steel, of a width of 600 mm or more."
+7220,"Flat-rolled products of stainless steel, of a width of less than 600 mm."
+7221,"Bars and rods, hot-rolled, in irregularly wound coils, of stainless steel."
+7222,Other bars and rods of stainless steel;
+7223,Wire of stainless steel.
+7224,Other alloy steel in ingots or other primary forms;
+7225,"Flat-rolled products of other alloy steel, of a width of 600 mm or more."
+7226,"Flat-rolled products of other alloy steel, of a width of less than 600 mm."
+7227,"Bars and rods, hot-rolled, in irregularly wound coils, of other alloy steel ..."
+7228,Other bars and rods of other alloy steel;
+7229,Wire of other alloy steel.
+7301,Sheet piling of iron or steel
+7302,Railway or tramway track construction material of iron or steel
+7303,"Tubes, pipes and hollow profiles, of cast iron."
+7304,"Tubes, pipes and hollow profiles, seamless, of iron (other than cast iron)  ..."
+7305,"Other tubes and pipes (for example, welded, riveted or similarly closed)"
+7306,"Other tubes, pipes and hollow profiles"
+7307,"Tube or pipe fittings (for example, couplings, elbows, sleeves), of iron or ..."
+7308,Structures (excluding prefabricated buildings of heading 94.06)
+7309,"Reservoirs, tanks, vats and similar containers for any material"
+7310,"Tanks, casks, drums, cans, boxes and similar containers, for any material"
+7311,"Containers for compressed or liquefied gas, of iron or steel."
+7312,"Stranded wire, ropes, cables, plaited bands, slings and the like, of iron o ..."
+7313,"Barbed wire of iron or steel; twisted hoop or single flat wire, barbed or n ..."
+7314,"Cloth (including endless bands), grill, netting and fencing, of iron or ste ..."
+7315,"Chain and parts thereof, of iron or steel."
+7316,"Anchors, grapnels and parts thereof, of iron or steel."
+7317,"Nails, tacks, drawing pins, corrugated nails, staples"
+7318,"Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter-pin ..."
+7319,"Sewing needles, knitting needles, bodkins, crochet hooks, embroidery stilet ..."
+7320,"Springs and leaves for springs, of iron or steel."
+7321,"Stoves, ranges, grates, cookers"
+7322,"Radiators for central heating, not electrically heated, and parts thereof"
+7323,"Table, kitchen or other household articles and parts thereof, of iron or st ..."
+7324,"Sanitary ware and parts thereof, of iron or steel."
+7325,Other cast articles of iron or steel.
+7326,Other articles of iron or steel.
+7401,Copper mattes; cement copper (precipitated copper).
+7402,Unrefined copper; copper anodes for electrolytic refining.
+7403,"Refined copper and copper alloys, unwrought."
+7404,Copper waste and scrap.
+7405,Master alloys of copper.
+7406,Copper powders and flakes.
+7407,"Copper bars, rods and profiles."
+7408,Copper wire.
+7409,"Copper plates, sheets and strip, of a thickness exceeding 0.15 mm."
+7410,"Copper foil (whether or not printed or backed with paper, paperboard or pla ..."
+7411,Copper tubes and pipes.
+7412,"Copper tube or pipe fittings (for example, couplings, elbows, sleeves)."
+7413,"Stranded wire, cables, plaited bands and the like, of copper"
+7414,"Cloth (including endless bands), grill and netting, of copper wire"
+7415,"Nails, tacks, drawing pins, staples (other than those of heading 83.05)"
+7416,Copper springs.
+7417,Cooking or heating apparatus of a kind used for domestic purposes
+7418,"Table, kitchen or other household articles and parts thereof, of copper"
+7419,Other articles of copper.
+7501,"Nickel mattes, nickel oxide sinters and other intermediate products of nick ..."
+7502,Unwrought nickel.
+7503,Nickel waste and scrap.
+7504,Nickel powders and flakes.
+7505,"Nickel bars, rods, profiles and wire."
+7506,"Nickel plates, sheets, strip and foil."
+7507,"Nickel tubes, pipes and tube or pipe fittings (for example, couplings, elbo ..."
+7508,Other articles of nickel.
+7601,Unwrought aluminium.
+7602,Aluminium waste and scrap.
+7603,Aluminium powders and flakes.
+7604,"Aluminium bars, rods and profiles."
+7605,Aluminium wire.
+7606,"Aluminium plates, sheets and strip, of a thickness exceeding 0.2 mm."
+7607,"Aluminium foil (whether or not printed or backed with paper, paperboard or  ..."
+7608,Aluminium tubes and pipes.
+7609,"Aluminium tube or pipe fittings (for example, couplings, elbows, sleeves)."
+7610,Aluminium structures (excluding prefabricated buildings of heading 94.06)
+7611,"Aluminium reservoirs, tanks, vats and similar containers, for any material"
+7612,"Aluminium casks, drums, cans, boxes and similar containers"
+7613,Aluminium containers for compressed or liquefied gas.
+7614,"Stranded wire, cables, plaited bands and the like, of aluminium"
+7615,"Table, kitchen or other household articles and parts thereof, of aluminium"
+7616,Other articles of aluminium.
+7801,Unwrought lead.
+7802,Lead waste and scrap.
+7803,"Lead bars, rods, profiles and wire."
+7804,"Lead plates, sheets, strip and foil; lead powders and flakes."
+7805,"Lead tubes, pipes and tube or pipe fittings (for example, couplings, elbows ..."
+7806,Other articles of lead.
+7901,Unwrought zinc.
+7902,Zinc waste and scrap.
+7903,"Zinc dust, powders and flakes."
+7904,"Zinc bars, rods, profiles and wire."
+7905,"Zinc plates, sheets, strip and foil."
+7906,"Zinc tubes, pipes and tube or pipe fittings (for example, couplings, elbows ..."
+7907,Other articles of zinc.
+8001,Unwrought tin.
+8002,Tin waste and scrap.
+8003,"Tin bars, rods, profiles and wire."
+8004,"Tin plates, sheets and strip, of a thickness exceeding 0.2 mm."
+8005,"Tin foil (whether or not printed or backed with paper, paperboard or plasti ..."
+8006,"Tin tubes, pipes and tube or pipe fittings (for example, couplings, elbows, ..."
+8007,Other articles of tin.
+8101,"Tungsten (wolfram) and articles thereof, including waste and scrap."
+8102,"Molybdenum and articles thereof, including waste and scrap."
+8103,"Tantalum and articles thereof, including waste and scrap."
+8104,"Magnesium and articles thereof, including waste and scrap."
+8105,Cobalt mattes and other intermediate products of cobalt metallurgy
+8106,"Bismuth and articles thereof, including waste and scrap."
+8107,"Cadmium and articles thereof, including waste and scrap."
+8108,"Titanium and articles thereof, including waste and scrap."
+8109,"Zirconium and articles thereof, including waste and scrap."
+8110,"Antimony and articles thereof, including waste and scrap."
+8111,"Manganese and articles thereof, including waste and scrap."
+8112,"Beryllium, chromium, germanium, vanadium, gallium, hafnium"
+8113,"Cermets and articles thereof, including waste and scrap."
+8201,"Hand tools, the following : spades, shovels, mattocks, picks, hoes, forks a ..."
+8202,Hand saws; blades for saws of all kinds
+8203,"Files, rasps, pliers (including cutting pliers), pincers, tweezers"
+8204,Hand-operated spanners and wrenches
+8205,Hand tools (including glaziers' diamonds)
+8206,"Tools of two or more of the headings 82.02 to 82.05, put up in sets for ret ..."
+8207,"Interchangeable tools for hand tools, whether or not power-operated"
+8208,"Knives and cutting blades, for machines or for mechanical appliances."
+8209,"Plates, sticks, tips and the like for tools, unmounted, of cermets."
+8210,"Hand-operated mechanical appliances, weighing 10 kg or less"
+8211,"Knives with cutting blades, serrated or not (including pruning knives)"
+8212,Razors and razor blades (including razor blade blanks in strips).
+8213,"Scissors, tailors' shears and similar shears, and blades therefor."
+8214,"Other articles of cutlery (for example, hair clippers, butchers' or kitchen ..."
+8215,"Spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter-knives"
+8301,"Padlocks and locks (key, combination or electrically operated), of base met ..."
+8302,"Base metal mountings, fittings and similar articles suitable for furniture"
+8303,"Armoured or reinforced safes, strong-boxes and doors and safe deposit locke ..."
+8304,"Filing cabinets, card-index cabinets, paper trays, paper rests, pen trays"
+8305,"Fittings for loose-leaf binders or files, letter clips, letter corners, pap ..."
+8306,"Bells, gongs and the like, non-electric, of base metal; statuettes and othe ..."
+8307,"Flexible tubing of base metal, with or without fittings."
+8308,"Clasps, frames with clasps, buckles, buckle-clasps, hooks, eyes, eyelets an ..."
+8309,"Stoppers, caps and lids (including crown corks, screw caps and pouring stop ..."
+8310,"Sign-plates, name-plates, address-plates and similar plates, numbers, lette ..."
+8311,"Wire, rods, tubes, plates, electrodes and similar products, of base metal"
+8401,"Nuclear reactors; fuel elements (cartridges), non-irradiated, for nuclear r ..."
+8402,Steam or other vapour generating boilers
+8403,Central heating boilers other than those of heading 84.02.
+8404,Auxiliary plant for use with boilers of heading 84.02 or 84.03
+8405,"Producer gas or water gas generators, with or without their purifiers"
+8406,Steam turbines and other vapour turbines.
+8407,Spark-ignition reciprocating or rotary internal combustion piston engines.
+8408,Compression-ignition internal combustion piston engines (diesel or semi-die ...
+8409,Parts suitable for use solely or principally with the engines of heading 84 ...
+8410,"Hydraulic turbines, water wheels, and regulators therefor."
+8411,"Turbo-jets, turbo-propellers and other gas turbines."
+8412,Other engines and motors.
+8413,"Pumps for liquids, whether or not fitted with a measuring device; liquid el ..."
+8414,"Air or vacuum pumps, air or other gas compressors and fans"
+8415,"Air conditioning machines, comprising a motor-driven fan"
+8416,"Furnace burners for liquid fuel, for pulverised solid fuel or for gas"
+8417,"Industrial or laboratory furnaces and ovens, including incinerators, non-el ..."
+8418,"Refrigerators, freezers and other refrigerating or freezing equipment"
+8419,"Machinery, plant or laboratory equipment"
+8420,"Calendering or other rolling machines, other than for metals or glass"
+8421,"Centrifuges, including centrifugal dryers"
+8422,Dish washing machines; machinery for cleaning or drying bottles or other co ...
+8423,Weighing machinery (excluding balances of a sensitivity of 5 cg or better)
+8424,Mechanical appliances (whether or not hand-operated) for projecting
+8425,Pulley tackle and hoists other than skip hoists; winches and capstans; jack ...
+8426,"Ships' derricks; cranes, including cable cranes; mobile lifting frames"
+8427,Fork-lift trucks; other works trucks fitted with lifting or handling equipm ...
+8428,"Other lifting, handling, loading or unloading machinery"
+8429,"Self-propelled bulldozers, angledozers, graders, levellers, scrapers"
+8430,"Other moving, grading, levelling, scraping, excavating, tamping, compacting ..."
+8431,Parts suitable for use principally with the machinery of headings 84.25 to  ...
+8432,"Agricultural, horticultural or forestry machinery for soil preparation or c ..."
+8433,"Harvesting or threshing machinery, including straw or fodder balers"
+8434,Milking machines and dairy machinery.
+8435,"Presses, crushers and similar machinery used in the manufacture of wine"
+8436,"Other agricultural, horticultural, forestry, poultry-keeping or bee-keeping ..."
+8437,"Machines for cleaning, sorting or grading seed, grain or dried leguminous v ..."
+8438,"Machinery, not specified or included elsewhere in this Chapter"
+8439,Machinery for making pulp of fibrous cellulosic material
+8440,"Book-binding machinery, including book-sewing machines."
+8441,"Other machinery for making up paper pulp, paper or paperboard"
+8442,"Machinery, apparatus and equipment"
+8443,"Printing machinery used for printing by means of the printing type, blocks"
+8444,"Machines for extruding, drawing, texturing or cutting man-made textile mate ..."
+8445,"Machines for preparing textile fibres; spinning, doubling or twisting machi ..."
+8446,Weaving machines (looms).
+8447,"Knitting machines, stitch-bonding machines and machines for making gimped y ..."
+8448,"Auxiliary machinery for use with machines of heading 84.44, 84.45, 84.46 or ..."
+8449,Machinery for the manufacture or finishing of felt or nonwovens in the piec ...
+8450,"Household or laundry-type washing machines, including machines which both w ..."
+8451,"Machinery (other than machines of heading 84.50) for washing, cleaning, wri ..."
+8452,"Sewing machines, other than book-sewing machines of heading 84.40"
+8453,"Machinery for preparing, tanning or working hides, skins or leather"
+8454,"Converters, ladles, ingot moulds and casting machines"
+8455,Metal-rolling mills and rolls therefor.
+8456,"Machine-tools for working any material by removal of material, by laser or  ..."
+8457,"Machining centres, unit construction machines (single station)"
+8458,Lathes (including turning centres) for removing metal.
+8459,"Machine-tools (including way-type unit head machines) for drilling, boring"
+8460,"Machine-tools for deburring, sharpening, grinding, honing, lapping, polishi ..."
+8461,"Machine-tools for planing, shaping, slotting, broaching, gear cutting, gear ..."
+8462,"Machine-tools (including presses) for working metal by forging, hammering"
+8463,"Other machine-tools for working metal or cermets, without removing material ..."
+8464,"Machine-tools for working stone, ceramics, concrete, asbestos-cement"
+8465,"Machine-tools (including machines for nailing, stapling, glueing"
+8466,Parts and accessories  for use with machines of heading 84.56 to 84.65
+8467,"Tools for working in the hand, pneumatic, hydraulic"
+8468,"Machinery and apparatus for soldering, brazing or welding"
+8469,Typewriters other than printers of heading 84.71; word-processing machines. ...
+8470,"Calculating machines and pocket-size data recording, reproducing machines"
+8471,Automatic data processing machines and units thereof
+8472,Other office machines
+8473,Parts and accessories for use with machines of heading 84.69 to 84.72
+8474,"Machinery for sorting, screening, separating, washing, crushing, grinding"
+8475,"Machines for assembling electric or electronic lamps, tubes or valves"
+8476,Automatic goods-vending machines
+8477,Machinery for working rubber or plastics
+8478,Machinery for preparing or making up tobacco
+8479,Machines and mechanical appliances having individual functions
+8480,Moulding boxes for metal foundry; mould bases; moulding patterns
+8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells"
+8482,Ball or roller bearings.
+8483,Transmission shafts (including cam shafts and crank shafts) and cranks
+8484,Gaskets and similar joints of metal sheeting combined with other material
+8485,"Machinery parts, not containing electrical connectors, insulators, coils"
+8501,Electric motors and generators (excluding generating sets).
+8502,Electric generating sets and rotary converters.
+8503,Parts suitable for use principally with the machines of heading 85.01 or 85 ...
+8504,"Electrical transformers, static converters (for example, rectifiers) and in ..."
+8505,Electro-magnets; permanent magnets and articles intended to become permanen ...
+8506,Primary cells and primary batteries.
+8507,"Electric accumulators, including separators therefor"
+8509,"Electro-mechanical domestic appliances, with self-contained electric motor. ..."
+8510,"Shavers, hair clippers and hair-removing appliances, with self-contained el ..."
+8511,Electrical ignition or starting equipment
+8512,Electrical lighting or signalling equipment
+8513,Portable electric lamps designed to function by their own source of energy
+8514,Industrial or laboratory electric furnaces and ovens
+8515,"Electric (including electrically heated gas), laser or other light"
+8516,Electric instantaneous or storage water heaters and immersion heaters
+8517,Electrical apparatus for line telephony or line telegraphy
+8518,Microphones and stands therefor; loudspeakers
+8519,"Turntables (record-decks), record-players, cassette-players"
+8520,Magnetic tape recorders and other sound recording apparatus
+8521,"Video recording or reproducing apparatus, whether or not incorporating a vi ..."
+8522,Parts and accessories for use with the apparatus of heading 85.19 to 85.21
+8523,Prepared unrecorded media for sound recording or similar recording of other ...
+8524,"Records, tapes and other recorded media for sound"
+8525,"Transmission apparatus for radio-telephony, radio-broadcasting"
+8526,"Radar apparatus, radio navigational aid apparatus and radio remote control  ..."
+8527,"Reception apparatus for radio-telephony, radio-telegraphy or radio-broadcas ..."
+8528,Reception apparatus for television
+8529,Parts suitable for use with the apparatus of headings 85.25 to 85.28
+8530,"Electrical signalling, safety or traffic control equipment for railways"
+8531,Electric sound or visual signalling apparatus
+8532,"Electrical capacitors, fixed, variable or adjustable (pre-set)."
+8533,Electrical resistors (including rheostats and potentiometers)
+8534,Printed circuits.
+8535,Electrical apparatus for switching or protecting electrical circuits
+8536,"Electrical apparatus for switching or protecting electrical circuits, or fo ..."
+8537,"Boards, panels, consoles, desks, cabinets and other bases"
+8538,"Parts suitable for use with the apparatus of heading 85.35, 85.36 or 85.37"
+8539,"Electric filament or discharge lamps, including sealed beam lamp units"
+8540,"Thermionic, cold cathode or photo-cathode valves and tubes"
+8541,"Diodes, transistors and similar semiconductor devices"
+8542,Electronic integrated circuits and microassemblies.
+8543,"Electrical machines and apparatus, having individual functions"
+8544,"Insulated (including enamelled or anodised) wire, cable"
+8545,"Carbon electrodes, carbon brushes, lamp carbons, battery carbons"
+8546,Electrical insulators of any material.
+8547,"Insulating fittings for electrical machines, appliances or equipment"
+8548,"Waste and scrap of primary cells, primary batteries and electric accumulato ..."
+8601,Rail locomotives powered from an external source of electricity
+8602,Other rail locomotives; locomotive tenders.
+8603,"Self-propelled railway or tramway coaches, vans and trucks"
+8604,Railway or tramway maintenance or service vehicles
+8605,"Railway or tramway passenger coaches, not self-propelled"
+8606,"Railway or tramway goods vans and wagons, not self-propelled."
+8607,Parts of railway or tramway locomotives or rolling-stock.
+8608,Railway or tramway track fixtures and fittings; mechanical
+8609,Containers (including containers for the transport of fluids)
+8701,Tractors (other than tractors of heading 87.09).
+8702,"Motor vehicles for the transport of ten or more persons, including the driv ..."
+8703,Motor cars and other motor vehicles principally designed for the transport  ...
+8704,Motor vehicles for the transport of goods.
+8705,"Special purpose motor vehicles, other than those principally designed for t ..."
+8706,"Chassis fitted with engines, for the motor vehicles of headings 87.01 to 87 ..."
+8707,"Bodies (including cabs), for the motor vehicles of headings 87.01 to 87.05. ..."
+8708,Parts and accessories of the motor vehicles of headings 87.01 to 87.05.
+8709,"Works trucks, self-propelled, not fitted with lifting or handling equipment ..."
+8710,"Tanks and other armoured fighting vehicles, motorised"
+8711,Motorcycles (including mopeds) and cycles fitted with an auxiliary motor
+8712,"Bicycles and other cycles (including delivery tricycles), not motorised."
+8713,Carriages for disabled persons
+8714,Parts and accessories of vehicles of headings 87.11 to 87.13.
+8715,Baby carriages and parts thereof.
+8716,Trailers and semi-trailers
+8801,"Balloons and dirigibles; gliders, hang gliders and other non-powered aircra ..."
+8802,"Other aircraft (for example, helicopters, aeroplanes); spacecraft"
+8803,Parts of goods of heading 88.01 or 88.02.
+8804,Parachutes (including dirigible parachutes and paragliders) and rotochutes
+8805,Aircraft launching gear; deck-arrestor or similar gear
+8901,"Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar ..."
+8902,Fishing vessels; factory ships and other vessels for processing or preservi ...
+8903,Yachts and other vessels for pleasure or sports; rowing boats and canoes.
+8904,Tugs and pusher craft.
+8905,"Light-vessels, fire-floats, dredgers, floating cranes and other vessels"
+8906,"Other vessels, including warships and lifeboats other than rowing boats."
+8907,Other floating structures
+8908,Vessels and other floating structures for breaking up.
+9001,Optical fibres and optical fibre bundles
+9002,"Lenses, prisms, mirrors and other optical elements, of any material"
+9003,"Frames and mountings for spectacles, goggles or the like, and parts thereof ..."
+9004,"Spectacles, goggles and the like, corrective, protective or other."
+9005,"Binoculars, monoculars, other optical telescopes, and mountings therefor"
+9006,Photographic (other than cinematographic) cameras
+9007,Cinematographic cameras and projectors
+9008,"Image projectors, other than cinematographic"
+9009,Photocopying apparatus incorporating an optical system
+9010,Apparatus and equipment for photographic (including cinematographic) labora ...
+9011,"Compound optical microscopes, including those for photomicrography"
+9012,Microscopes other than optical microscopes; diffraction apparatus.
+9013,Liquid crystal devices
+9014,Direction finding compasses; other navigational instruments and appliances. ...
+9015,"Surveying (including photogrammetrical surveying), hydrographic, oceanograp ..."
+9016,"Balances of a sensitivity of 5 cg or better, with or without weights."
+9017,"Drawing, marking-out or mathematical calculating instruments"
+9018,"Instruments and appliances used in medical, surgical, dental or veterinary  ..."
+9019,Mechano-therapy appliances; massage apparatus;
+9020,"Other breathing appliances and gas masks, excluding protective masks"
+9021,"Orthopaedic appliances, including crutches, surgical belts and trusses"
+9022,"Apparatus based on the use of X-rays or of alpha, beta or gamma radiations"
+9023,"Instruments, apparatus and models, designed for demonstrational purposes"
+9024,"Machines and appliances for testing the hardness, strength, compressibility ..."
+9025,"Hydrometers and similar floating instruments, thermometers, pyrometers, bar ..."
+9026,"Instruments and apparatus for measuring or checking the flow, level, pressu ..."
+9027,Instruments and apparatus for physical or chemical analysis
+9028,"Gas, liquid or electricity supply or production meters"
+9029,"Revolution counters, production counters, taximeters, mileometers"
+9030,"Oscilloscopes, spectrum analysers"
+9031,"Measuring or checking instruments, appliances and machines"
+9032,Automatic regulating or controlling instruments and apparatus.
+9033,Parts and accessories (not specified or included elsewhere in this Chapter) ...
+9101,"Wrist-watches, pocket-watches and other watches, including stop-watches"
+9102,"Wrist-watches, pocket-watches and other watches, including stop-watches"
+9103,"Clocks with watch movements, excluding clocks of heading 91.04."
+9104,"Instrument panel clocks and clocks of a similar type for vehicles, aircraft ..."
+9105,Other clocks.
+9106,"Time of day recording apparatus and apparatus for measuring, recording"
+9107,Time switches with clock or watch movement or with synchronous motor.
+9108,"Watch movements, complete and assembled."
+9109,"Clock movements, complete and assembled."
+9110,"Complete watch or clock movements, unassembled or partly assembled (movemen ..."
+9111,Watch cases and parts thereof.
+9112,Clock cases and cases of a similar type for other goods of this Chapter
+9113,"Watch straps, watch bands and watch bracelets, and parts thereof."
+9114,Other clock or watch parts.
+9201,"Pianos, including automatic pianos; harpsichords"
+9202,"Other string musical instruments (for example, guitars, violins, harps)."
+9203,Keyboard pipe organs; harmoniums and similar keyboard instruments with free ...
+9204,Accordions and similar instruments; mouth organs.
+9205,"Other wind musical instruments (for example, clarinets, trumpets, bagpipes) ..."
+9206,Percussion musical instruments
+9207,"Musical instruments, the sound of which is produced, or must be amplified,  ..."
+9208,"Musical boxes, fairground organs, mechanical street organs, mechanical sing ..."
+9209,"Parts (for example, mechanisms for musical boxes) and accessories"
+9301,"Military weapons, other than revolvers, pistols and the arms of heading 93. ..."
+9302,"Revolvers and pistols, other than those of heading 93.03 or 93.04."
+9303,Other firearms and similar devices which operate by the firing of an explos ...
+9304,"Other arms (for example, spring, air or gas guns and pistols, truncheons)"
+9305,Parts and accessories of articles of headings 93.01 to 93.04.
+9306,"Bombs, grenades, torpedoes, mines, missiles and similar munitions of war"
+9307,"Swords, cutlasses, bayonets, lances and similar arms and parts thereof"
+9401,"Seats (other than those of heading 94.02), whether or not convertible into  ..."
+9402,"Medical, surgical, dental or veterinary furniture"
+9403,Other furniture and parts thereof.
+9404,Mattress supports; articles of bedding and similar furnishing
+9405,Lamps and lighting fittings including searchlights and spotlights and parts ...
+9406,Prefabricated buildings.
+9501,Wheeled toys designed to be ridden by children
+9502,Dolls representing only human beings.
+9503,Other toys; reduced-size (scale) models and similar recreational models
+9504,"Articles for funfair, table or parlour games, including pintables, billiard ..."
+9505,"Festive, carnival or other entertainment articles"
+9506,"Articles and equipment for general physical exercise, gymnastics, athletics ..."
+9507,"Fishing rods, fish-hooks and other line fishing tackle; fish landing nets"
+9508,"Roundabouts, swings, shooting galleries and other fairground amusements"
+9601,"Worked ivory, bone, tortoise-shell, horn, antlers, coral, mother-of-pearl"
+9602,Worked vegetable or mineral carving material and articles of these material ...
+9603,"Brooms, brushes (including brushes constituting parts of machines"
+9604,Hand sieves and hand riddles.
+9605,"Travel sets for personal toilet, sewing or shoe or clothes cleaning."
+9606,"Buttons, press-fasteners, snap-fasteners and press-studs, button moulds"
+9607,Slide fasteners and parts thereof.
+9608,Ball point pens; felt tipped and other porous-tipped pens and markers; foun ...
+9609,"Pencils (other than pencils of heading 96.08), crayons, pencil leads, paste ..."
+9610,"Slates and boards, with writing or drawing surfaces, whether or not framed. ..."
+9611,"Date, sealing or numbering stamps, and the like"
+9612,"Typewriter or similar ribbons, inked or otherwise prepared for giving impre ..."
+9613,"Cigarette lighters and other lighters, whether or not mechanical or electri ..."
+9614,"Smoking pipes (including pipe bowls) and cigar or cigarette holders, and pa ..."
+9615,"Combs, hair-slides and the like; hairpins, curling pins, curling grips"
+9616,"Scent sprays and similar toilet sprays, and mounts and heads therefor"
+9617,"Vacuum flasks and other vacuum vessels, complete with cases"
+9618,Tailors' dummies and other lay figures; automata and other animated display ...
+9701,"Paintings, drawings and pastels, executed entirely by hand"
+9702,"Original engravings, prints and lithographs."
+9703,"Original sculptures and statuary, in any material."
+9704,"Postage or revenue stamps, stamp-postmarks, first-day covers, postal statio ..."
+9705,"Collections and collectors' pieces of zoological, botanical, mineralogical"
+9706,Antiques of an age exceeding one hundred years.
+9999,Commodities not specified according to kind
