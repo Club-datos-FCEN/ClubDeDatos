@@ -1,0 +1,16 @@
+TIPOHOGAR;label
+1;Unipersonal
+2;Nuclear completo de pareja sola
+3;Nuclear completo de pareja e hijos
+4;Nuclear incompleto
+5;Hogar nuclear completo de pareja sola con otros familiares
+6;Hogar nuclear completo de pareja e hijos con otros familiares
+7;Hogar nuclear incompleto con otros familiares
+8;Hogar sin núcleo familiar con otros familiares
+9;Hogar nuclear completo de pareja sola con otros no familiares (con o sin otros familiares)
+10;Hogar nuclear completo de pareja e hijos con otros no familiares (con o sin otros familiares)
+11;Hogar nuclear incompleto con otros no familiares (con o sin otros familiares)
+12;Hogar sin núcleo familiar con otros no familiares (con otros familiares)
+13;No familiar
+22;MISSING
+21;NOTAPPLICABLE

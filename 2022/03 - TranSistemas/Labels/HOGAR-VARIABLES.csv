@@ -1,0 +1,43 @@
+variable;label
+HOGAR_REF_ID;Identifier for HOGAR
+VIVIENDA_REF_ID;Parent entity Id
+NHOG;hogar-numero
+H0705;Material predominante de los pisos
+H1006;Material predominante de la cubierta exterior del techo
+H1107;Revestimiento interior o cielorraso del techo
+H1308;Tenencia de agua
+H1409;Procedencia del agua para beber y cocinar
+H1510;Tiene baño / letrina
+H1611;Tiene botón, cadena, mochila para limpieza del inodoro
+H1712;Desagüe del inodoro
+H1813;Baño / letrina de uso exclusivo
+H2014;Combustible usado principalmente para cocinar
+H2115;Total de habitaciones o piezas para dormir
+H2216;Total de habitaciones o piezas
+H2417;Propiedad de la vivienda
+H2518;Propiedad del terreno
+H2819A;Heladera
+H2819B;Computadora
+H2819C;Teléfono celular
+H2819D;Teléfono de línea
+H05P;Total de Personas descendiente de indigenas
+CODPUEBLO;Pueblo al que pertenece
+H06P;Total de Personas afrodescendientes
+H08A;Material predominante de las paredes exteriores
+H09A;Revestimiento externo de las paredes exteriores
+H12A;Tenencia de Electricidad
+H19A;Instalación de Agua en Cocina
+H23;Antiguedad de la vivienda
+H26;La vivienda esta totalmente paga
+H27;La vivienda esta escriturada
+EXPH;Expansor
+PROP;Régimen de tenencia
+TOTPERS;Total de Personas en el Hogar
+INDHAC;Hacinamiento
+ALGUNBI;Al menos un indicador NBI
+INCALSERV;Calidad de Conexiones a Servicios Básicos
+INMAT;Calidad de los materiales
+INCALCONS;Calidad constructiva de la vivienda
+V01;Tipo de vivienda
+TIPOHOGAR;Tipo de Hogar
+CUENTADIS;Cantidade de limitaciones permanentes

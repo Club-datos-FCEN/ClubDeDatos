@@ -1,0 +1,62 @@
+variable;label
+PERSONA_REF_ID;Identifier for PERSONA
+HOGAR_REF_ID;Parent entity Id
+P01;Relación o parentesco con el jefe(a) del hogar
+P02;Sexo
+P03;Edad
+P05;En que país nació
+P06C;Pais de nacimiento
+P1707;Sabe leer y escribir
+P1808;Asiste o asistió a un establecimiento educativo
+P1909;Nivel educativo que cursa o cursó
+P2010;Completó ese nivel
+P2111A;Último grado o año que aprobó en ese nivel
+P2212;Utiliza computadora
+P2513;La semana pasada, trabajó al menos una hora
+P2614;La semana pasada, hizo alguna changa o algo para vender afuera
+P2715;La semana pasada, estuvo de licencia por vacaciones o enfermedad
+P2816;En las últimas 4 semanas, estuvo buscando trabajo
+P1305;Cobertura de salud
+P07;Año de llegada a la Argentina
+P08M;Que Provincia Nació
+P09M;Donde viviá hace 5 años
+P10;En que municipio vivia hace 5 años
+P11M;Donde vive habitualmente
+P12;En que municipio vive habitualmente
+P14A;Dificultad o limitación permanente para ver
+P14B;Dificultad o limitación permanente para oír
+P14C;Dificultad o limitación permanente para caminar o subir
+P14D;Dificultad o limitación permanente para agarrar objetos
+P14E;Dificultad o limitación permanente para entender y/o aprender
+P15;Recibe jubilación o pensión
+P16;Tipo de beneficio que recibe
+P24;Convive en pareja o matrimonio
+P31;Tamaño del establecimiento
+P32;Categoría ocupacional
+P33;Sector en el que trabaja
+P34;Le descuentan para jubilación
+P35;Aporta para jubilación
+P36;Tuvo hijos/as nacidos vivos
+P37;Hijos nacidos vivos en total
+P38;Hijos vivos actualmente
+P39;Fecha último hijo nacido vivo
+AFRO;Afrodescendiente
+INDI;Indígena
+CLAVE1P;Clave1
+MNI;Máximo Nivel de Instrucción
+ACT2CIFR;Código de actividad 2 cifras
+P08N;Que Provincia Nació-Nombre
+P09N;Donde vivía hace 5 años-Nombre
+P11N;Donde vive habitualmente-Nombre
+ACTNUMERO;Código de actividad número
+EDADAGRU;Edad en grandes grupos
+EDADQUI;Edades quinquenales
+P1808C;Condición de asistencia escolar
+P1909C;Nivel educativo que cursa o cursó
+P2010C;Completó el nivel
+CONDACT;Condición de actividad
+DISCA;tipo de dificultades o limitaciones permanentes
+CARACTER;Carácter ocupacional
+P23;Estado civil legal
+APORTE;Categoría ocupacional y aporte jubilatorio
+CUENTADIS;Cantidade de limitaciones permanentes

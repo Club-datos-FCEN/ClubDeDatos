@@ -1,0 +1,15 @@
+APORTE;label
+1;Obrero  o empleado que le descuentan o aportan
+2;Obrero o empleado que no le descuentan ni aportan
+3;Ignorado
+4;Patrón que aporta por sí mismo
+5;Patrón que no aporta por sí mismo
+6;Ignorado
+7;Trabajador cuenta propia que aporta
+8;Trabajador cuenta propia que aporta
+9;Ignorado
+10;Trabajador familiar que le descuentan o aportan
+11;Trabajador familiar que no le descuentan ni aportan
+12;Ignorado
+13;MISSING
+0;NOTAPPLICABLE
